@@ -31,7 +31,7 @@ function Main() {
       <header className="App-header">
         
         <div>
-          Hello ASHER !
+          Hello Krampoline !
         </div>
         <div>
           <button onClick={handleApiOnclick}>API TEST</button><div>{apiTest?"CONNECT":"NOT YET"}</div>
